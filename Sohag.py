@@ -75,11 +75,11 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 
         ђ๏Pє Y๏Ц MąY Gє┼ ๏Ц┼ЙЦMßєrєđ ącc๏ЦЙ┼ş 
        P๏şşIßLY şYЙcђr๏ЙI乙єđ ßY ┼ђIş GI┼ђЦß . 
-          ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
+             ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92msohag
-\033[1;96mInstagram \033[1;93m: \033[1: sohag
+\033[1;96mAuthor  \033[1;93m: \033[1;92msohag miah
+\033[1;96mInstagram \033[1;93m: \033[1: sohag miah
 \033[1;96mFacebook  \033[1;93m: \033[1: Mohammad Sohag Miah 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sohag-del/fbhack
 \033[1;91m======================================="""
@@ -120,14 +120,14 @@ print  """\033[1;91m
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp: 0550168166
 \033[1;96mAuthor  \033[1;93m: \033[1;92msohag miah
-\033[1;96mInstagram \033[1;93m: \033[1;92msohag
+\033[1;96mInstagram \033[1;93m: \033[1;92msohag miah
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Mohammad Sohag Miah 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sohag-del/fbhacktest
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sohag-del/fbhack
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "sohag"
-CorrectPassword = "sohag"
+CorrectPassword = "pake"
 
 loop = 'true'
 while (loop == 'true'):
