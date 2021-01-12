@@ -118,11 +118,11 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92msohag
+
+\033[1;96mAuthor  \033[1;93m: \033[1;92msohag miah
 \033[1;96mInstagram \033[1;93m: \033[1;92msohag
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Mohammad Sohag Miah 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sohag-del/fbhack
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sohag-del/fbhacktest
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
